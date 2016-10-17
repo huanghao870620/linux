@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 2.8)
+PROJECT(cmake_test)
+	SET(src_list main.c)
+	INCLUDE_DIRECTORIES(/usr/include/glib)
+	MESSAGE(status "This is binary dir"${hello_binary_dir})
+	add_executable(hello ${src_list})

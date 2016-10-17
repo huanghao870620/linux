@@ -1,0 +1,8 @@
+example0/Makefile
+example0/cmake_install.cmake
+example0/CMakeCache.txt
+example0/CMakeFiles/
+.gitignore.swp
+example0/hello
+
+
