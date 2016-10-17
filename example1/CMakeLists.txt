@@ -1,0 +1,6 @@
+ cmake_minimum_required(VERSION 3.0)
+include_directories(${PROJECT_SOURCE_DIR}/ab)
+	set(SRC_LIST main.cpp)
+	add_executable(example1 ${SRC_LIST})
+#	find_library(LIB_GEN NAMES xml PATHS ../../../lib NO_DEFAULT_PATH)
+#	target_link_libraries(test ${LIB_GEN})

@@ -4,5 +4,11 @@ example0/CMakeCache.txt
 example0/CMakeFiles/
 .gitignore.swp
 example0/hello
-
-
+example1/cmake_install.cmake
+example1/.cproject
+example1/.project
+example1/CMakeCache.txt
+example1/CMakeFiles/
+example1/Makefile
+example1/example1
+.gitignore~
